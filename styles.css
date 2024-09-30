@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenang-Kenangan Magang BP-2021</title>
+    <!-- Link ke file CSS eksternal -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>MAGANG KUA BANUHAMPU BP-21</h1>
+        
+        <h2>PEMAGANG:</h2>
+        <ul id="listPemagang">
+            <li>Nurul Fajri</li>
+            <li>Hamdi Fajri</li>
+            <li>Noris Gusriyest Mariska</li>
+            <li>Ririn Nurhalida</li>
+            <li>Iffatul Karimah Ghazali</li>
+            <li>Fitri Wahyuni</li>
+            <li>Siti Nurhafifah</li>
+        </ul>
+        
+        <!-- Video Section -->
+        <h2>Kenang-Kenangan Video MAGANG 2024</h2>
+        <video controls>
+            <source src="MAGANG 2024.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 mail - Nurul Fajri</p>
+    </footer>
+
+    <!-- Link ke file JavaScript eksternal -->
+    <script src="script.js"></script>
+</body>
+</html>
